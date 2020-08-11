@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "coronavirus-test-us",
+    "test": "coronavirustest-f5671"
+  }
+}
